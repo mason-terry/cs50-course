@@ -60,7 +60,6 @@ void print_back(int slot, int total)
   {
     printf("#");
   }
-  print_spaces(slot, total);
   printf("\n");
 }
 
